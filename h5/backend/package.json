@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "sqlite3": "^5.1.7"
+  }
+}
